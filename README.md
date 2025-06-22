@@ -17,7 +17,7 @@ A website designed for an agricultural company that highlights featured products
 
 ## 🏎️ 2. Cars – Automotive Website
 
-![Trabalho 7](Trabalho 07,2024.png)
+![cars](cars.png)
 
 **Theme:** Dynamic, High-Performance, Modern  
 **Description:**  
@@ -31,7 +31,7 @@ A visually engaging website focused on high-end automobiles. Developed with a sl
 
 ## 💼 3. Leader – Business Solutions Website
 
-![Trabalho 5](Trabalho 05,2024.png)
+![leader](leader.png)
 
 **Theme:** Clean, Professional, Minimalistic  
 **Description:**  
